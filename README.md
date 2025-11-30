@@ -2,6 +2,8 @@
 
 A simple JavaScript/TypeScript client for the Emotion Tone Analyzer API. Works seamlessly in Node.js and browser environments with zero dependencies.
 
+**[🚀 Live Demo](https://text-emotion-detector.netlify.app/)**
+
 ## Features
 
 - 🎯 **Simple API** - Easy to use `analyze()` and `analyzeBatch()` methods

@@ -49,7 +49,7 @@
   "bugs": {
     "url": "https://github.com/Itskrish01/emotion-detector-js/issues"
   },
-  "homepage": "https://github.com/Itskrish01/emotion-detector-js#readme",
+  "homepage": "https://text-emotion-detector.netlify.app/",
   "engines": {
     "node": ">=18.0.0"
   },
